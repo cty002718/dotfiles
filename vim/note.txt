@@ -19,5 +19,3 @@ tips:
     [Ctrl]+r 重做上一個動作
     . 重複上一個動作
 
-about .vimrc:
-    git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
